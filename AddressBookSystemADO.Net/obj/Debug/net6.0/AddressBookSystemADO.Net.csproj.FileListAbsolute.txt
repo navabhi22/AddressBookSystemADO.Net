@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\bin\Debug\net6.0\AddressBookSystemADO.Net.exe
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\bin\Debug\net6.0\AddressBookSystemADO.Net.deps.json
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\bin\Debug\net6.0\AddressBookSystemADO.Net.runtimeconfig.json
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\bin\Debug\net6.0\AddressBookSystemADO.Net.dll
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\bin\Debug\net6.0\ref\AddressBookSystemADO.Net.dll
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\bin\Debug\net6.0\AddressBookSystemADO.Net.pdb
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\AddressBookSystemADO.Net.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\AddressBookSystemADO.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\AddressBookSystemADO.Net.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\AddressBookSystemADO.Net.AssemblyInfo.cs
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\AddressBookSystemADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\AddressBookSystemADO.Net.dll
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\ref\AddressBookSystemADO.Net.dll
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\AddressBookSystemADO.Net.pdb
+C:\Users\Acer\source\repos\AddressBookSystemADO.Net\AddressBookSystemADO.Net\obj\Debug\net6.0\AddressBookSystemADO.Net.genruntimeconfig.cache
